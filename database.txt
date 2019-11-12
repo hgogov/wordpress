@@ -1,0 +1,1 @@
+Add wordpess folder to xampp/mysql/data
